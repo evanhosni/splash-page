@@ -53,3 +53,10 @@ footer {
     right: 0;
     text-align: center;
 }
+
+@media screen and (max-height: 750px) {
+    footer {
+        position: relative;
+        margin-top: 25px;
+    }
+}
