@@ -68,6 +68,11 @@ footer {
         padding: 20px;
     }
 
+    .button {
+        padding-left: 0px;
+        padding: 10px;
+    }
+
     section {
         padding-top: 50px;
     }
