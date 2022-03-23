@@ -15,7 +15,7 @@ header {
     padding: 20px;
 }
 
-.button {
+header a {
     display: inline;
     padding-left: 30px;
 }
